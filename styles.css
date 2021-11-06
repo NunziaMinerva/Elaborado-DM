@@ -14,3 +14,9 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 gap: 10px;
 }
+.container-1{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  }
+
