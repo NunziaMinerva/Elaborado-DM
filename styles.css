@@ -22,16 +22,13 @@ a:visited{
   background-color:aquamarine;
   color: black;
   padding:5px 5px;
+  font-family: 'Calibri';
   text-align: center;
   text-decoration: none;
 }
 a:hover,
 a:active{
   background-color: aqua;
-
-
-
-
 }
 .container{
   column-count: 2;
